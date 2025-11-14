@@ -3,7 +3,7 @@
 ![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)
 ![Libraries](https://img.shields.io/badge/libraries-numpy%20%7C%20trimesh%20%7C%20open3d%20%7C%20sklearn-green.svg)
 
-This project, for the Mixar assignment, implements and analyzes pipelines for 3D mesh preprocessing. It demonstrates standard normalization (Min-Max, Unit Sphere) and an advanced, robust method using **Principal Component Analysis (PCA)** and **Adaptive Quantization**.
+This project implements and analyzes pipelines for 3D mesh preprocessing. It demonstrates standard normalization (Min-Max, Unit Sphere) and an advanced, robust method using **Principal Component Analysis (PCA)** and **Adaptive Quantization**.
 
 ## 📖 Table of Contents
 
